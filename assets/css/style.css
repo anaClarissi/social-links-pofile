@@ -1,0 +1,14 @@
+:root {
+
+    --color-primary-01: #141414;
+    --color-primary-02: hsl(0, 0%, 12%);
+    --color-primary-03: hsl(0, 0%, 20%);
+    --color-primary-04: hsl(75, 94%, 57%);
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
